@@ -15,9 +15,7 @@ namespace App{
 			Data.SaveLoad.Load();
 			while (true){
 				App.Menu.MainMenu();
-			}
-			
-
+			}		
 		}
 	}
 }
